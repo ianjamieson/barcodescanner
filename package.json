@@ -4,6 +4,8 @@
   "dependencies": {},
   "devDependencies": {
     "grunt-contrib-copy": "*",
-    "grunt-bower": "*"
+    "grunt-bower": "*",
+    "grunt-contrib-connect": "~0.7.1",
+    "grunt-open": "~0.2.3"
   }
 }
