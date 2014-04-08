@@ -1,0 +1,9 @@
+{
+  "name": "barcodescanner",
+  "version": "0.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt-contrib-copy": "*",
+    "grunt-bower": "*"
+  }
+}

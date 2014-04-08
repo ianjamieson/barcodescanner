@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+gem 'rake', '~> 10.1.1'
+gem 'sass'
+gem 'compass'
+gem 'capistrano', '~> 3.1.0'
