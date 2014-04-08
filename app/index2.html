@@ -1,0 +1,14 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Barcode recognition with JavaScript</title>
+    <script type="text/javascript" src="js/barcode.js"></script>
+  </head>
+  <body>
+    <img id="barcode" src="img/barcode.jpg"/>
+    <canvas id="canvas"></canvas>
+    <br/>
+    <button onclick="alert(getBarcodeFromImage('barcode'))">Scan</button>
+  </body>
+</html>
